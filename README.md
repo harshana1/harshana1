@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3YmbrqP87xrJPfseNbDZcd&ust=1703142820984000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPinscq7nYMDFQAAAAAdAAAAABAH)]
+![Header GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Harshana</h1>
 <h3 align="center">I am passionate about Software Quality Assurance</h3>
 
