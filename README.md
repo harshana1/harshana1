@@ -15,8 +15,8 @@
 - 🌱 Currently learning **Advanced SQL, DAX, Power Query, Data Modeling**  
 - 📊 Building projects with **Excel, SQL, and Power BI**  
 - 💬 Ask me about **Data Cleaning, Dashboards, KPIs, ETL**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/harshana-suraweera-7862aa148/)  
-- 📄 [My Resume](https://drive.google.com/drive/folders/1GjkD279izmaOFZFwn8hbN61LpCLRHVc9?usp=sharing)  
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/harshana-suraweera)  
+- 📄 [My Resume]()  
 
 ---
 
